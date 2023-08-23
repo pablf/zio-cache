@@ -2,7 +2,6 @@
 [//]: # (So please do not edit it manually. Instead, change "docs/index.md" file or sbt setting keys)
 [//]: # (e.g. "readmeDocumentation" and "readmeSupport".)
 
-
 # ZIO Cache
 
 ZIO Cache is a library that makes it easy to optimize the performance of our application by caching values.
